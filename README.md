@@ -37,20 +37,7 @@ Mechatronics Engineer with a strong quality mindset and hands-on experience in m
 ---
 
 ## 🚀 Featured QA Projects
-### 🧪 Testing Fundamentals – Test Case Design
-### 🧪 Testing Fundamentals – Test Case Design
-[![Project Preview](assets/testing-fundamentals.png)](wenrg007-coder/Proyecto-1)
 
-🔹 QA Fundamentals  
-🔹 Test Design Techniques  
-🔹 Early Defect Prevention
-
-[![Project Preview](<img width="626" height="401" alt="image" src="https://github.com/user-attachments/assets/63221e53-2c5b-4299-b318-e560573e702f" />
-)](wenrg007-coder/Proyecto-1)
-
-🔹 QA Fundamentals  
-🔹 Test Design Techniques  
-🔹 Early Defect Prevention
 
 
 
