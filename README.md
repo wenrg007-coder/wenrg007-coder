@@ -37,7 +37,7 @@ Mechatronics Engineer with a strong quality mindset and hands-on experience in m
 ---
 
 ## 🚀 Featured QA Projects
-[![Testing Fundamentals – Test Case Design](<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/ac9408bc-8449-428c-9aeb-7493ee5b3795" />
+[![Testing Fundamentals – Test Case Design](![stesting](https://github.com/user-attachments/assets/35de729e-a57b-4514-98ab-a8dcb6d4e2d8)
 )](https://github.com/wenrg007-coder/Proyecto-1)
 
 
